@@ -1,0 +1,14 @@
+center {
+    text-align: center;
+    align-content: center;
+    background-color: linear-gradient(to bottom,purple,indigo,blue,   lightblue,green,yellow,orange,red,orange,yellow,green,lightblue,blue,indigo,purple);
+}
+.a-tag {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: lighter;
+    align-content: flex-end;
+}
+.a-tag hover{
+    transition: all;
+}
